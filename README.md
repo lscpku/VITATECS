@@ -2,6 +2,8 @@
 
 VITATECS is a diagnostic VIdeo-Text dAtaset for the evaluation of TEmporal Concept underStanding. 
 
+VITATECS is also available on [Huggingface](https://huggingface.co/datasets/lscpku/VITATECS). 
+
 ## Data
 
 This repo contains 6 jsonl files, each of which corresponds to an aspect of temporal concepts (Direction, Intensity, Sequence, Localization, Compositionality, Type). 
