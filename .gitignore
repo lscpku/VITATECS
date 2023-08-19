@@ -1,0 +1,4 @@
+videos
+ckpts
+*.pt
+__pycache__
